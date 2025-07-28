@@ -109,11 +109,13 @@ You can explore the Lovable MVP version of Heonix here:
 
 ---
 
-## 📚 Getting Started
+## 📚 Documents
 
-> *Note: MVP version is not yet open-sourced. Deployment instructions will be shared soon.*
 
-To preview a demo, don't hesitate to get in touch with the maintainer.
+- [Feature Sprint Planning](https://github.com/jumkye/heonix-career-achievement-tracker/blob/e57eb6dc2b88fbf18123deefbf3793fe0dc3ff35/docs/Heonix_Feature_Sprint_Planning.pdf)
+- [Go-to-Market Strategy](https://github.com/jumkye/heonix-career-achievement-tracker/blob/e57eb6dc2b88fbf18123deefbf3793fe0dc3ff35/docs/Heonix_GTM_STRATEGY.pdf)
+- [Problem and Opportunity Brief](https://github.com/jumkye/heonix-career-achievement-tracker/blob/e57eb6dc2b88fbf18123deefbf3793fe0dc3ff35/docs/Heonix_Problem_and_Opps_Brief.pdf)
+- [PRD](https://github.com/jumkye/heonix-career-achievement-tracker/blob/e57eb6dc2b88fbf18123deefbf3793fe0dc3ff35/docs/heonix_PRD.pdf)
 
 ---
 
